@@ -5,7 +5,7 @@ public class holagit3 {
         System.out.println("Segumos mejorando el hellogit3");
         System.out.println("hola reparado, con una mejora ahora");
         System.out.println("Avanzando en el proyecto");
-        System.out.println("otro avance de rama");
+        System.out.println("otro avance de rama_v2");
     }
     
 }
